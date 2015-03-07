@@ -19,8 +19,8 @@
     "async": "^0.7.0",
     "express": "~3",
     "hat": "*",
-    "livedb": "git://github.com/share/livedb#presence",
-    "ottypes": "git://github.com/share/ottypes",
+    "livedb": "share/livedb#presence",
+    "ottypes": "ottypes/docs#npm",
     "semver": "~2"
   },
   "devDependencies": {
