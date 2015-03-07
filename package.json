@@ -24,11 +24,11 @@
     "semver": "~2"
   },
   "devDependencies": {
-    "browserchannel": "*",
+    "browserchannel": "1.2.0",
     "chai": "^1.9.1",
     "coffee-script": "^1.7.1",
     "connect": "^2.14.4",
-    "mocha": "~1",
+    "mocha": "~1.18",
     "optimist": ">= 0.2.4",
     "redis": "^0.10.1",
     "sinon": "^1.9.1",
